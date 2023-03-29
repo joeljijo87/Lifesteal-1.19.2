@@ -1,0 +1,7 @@
+name: Lifesteal-1.19.2
+version: '${project.version}'
+main: org.joelj.lifesteal1.Main
+api-version: 1.19
+commands:
+  withdraw:
+    usage: /<command> <number>
